@@ -9,6 +9,8 @@ Plus (ThinkSNS Plus) 是一个使用 Laravel 开发，并且功能繁多且健�
 
 > 如果你关注 ThinkSNS 所属公司更多开源产品，请看[ThinkSNS 官网](http://www.thinksns.com)
 
+> 旧版ThinkSNS https://github.com/medz/thinksns
+
 ## Badges
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8320deaa80b8489f95fcedaae6df079d)](https://www.codacy.com/app/zhiyi/thinksns-plus?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=slimkit/thinksns-plus&amp;utm_campaign=Badge_Grade)
